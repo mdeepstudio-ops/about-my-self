@@ -8,7 +8,7 @@ I am a Roblox platform developer with three years of experience specializing in 
 - **TypeScript**
 
 ---
-- **timezome:**IST (UTC+5:30) 
+- **timezome:** IST (UTC+5:30) 
 ---
 
 ### 🔗 Connect & Links
