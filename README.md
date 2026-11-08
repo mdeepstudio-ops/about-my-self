@@ -1,6 +1,8 @@
 # Hi there, I'm a Roblox Developer 👋
 
-I am a Roblox platform developer with 3 years of experience
+I am a Roblox platform developer with 3 years of experience, i specializing in UI/UX,Scripting,animation and sound effect
+
+#
 
 ### 🔗 Connect & Links
 * **Portfolio / Bio Page:** [guns.lol](https://guns.lol/YOUR_USERNAME)
