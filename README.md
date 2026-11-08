@@ -1,14 +1,16 @@
 # Hi there, I'm a Roblox Developer 👋
 
-I am a Roblox platform developer with 3 years of experience, i specializing in UI/UX,Scripting,animation and sound effect
-### coding language that i know 
-* **lua**
-* **typescript**
-* **luau**
+I am a Roblox platform developer with three years of experience specializing in UI/UX, scripting, animation, and sound design. 
+i am manly good in scripting
+
+### Coding Languages & Frameworks
+- **Luau** / **Lua**(best)
+- **Type-script**(best)
+#
 
 ### 🔗 Connect & Links
-* **Portfolio / Bio Page:** [guns.lol]([https://guns.lol/mdeep_studio])
-* **YouTube Channel:** [YouTube](https://www.youtube.com/channel/UCAg0Xrzlu2jning59VOWFPQ)
+- **Portfolio / Bio Page:** [guns.lol](https://guns.lol/mdeep_studio)
+- **YouTube Channel:** [YouTube](https://www.youtube.com/channel/UCAg0Xrzlu2jning59VOWFPQ)
 
 ---
 *Feel free to check out my latest work and reach out for collaborations!*
